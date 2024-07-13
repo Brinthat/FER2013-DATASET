@@ -1,5 +1,3 @@
-# README
-
 ## Project Title: Monitoring Employee's Emotional Well-being with GoogleNet Using the FER2013 Dataset
 
 ### Overview
